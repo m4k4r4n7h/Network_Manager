@@ -6,13 +6,29 @@ This repository contains a simple network utility tool designed to help users in
 # Requirements :
 
 sudo apt install iproute2 
-sudo apt install iw       
-sudo apt install curl     
+
+
+sudo apt install iw
+
+
+sudo apt install curl  
+
+
 sudo apt install net-tools 
+
+
 sudo apt install network-manager 
+
+
 sudo apt install telnet 
+
+
 sudo apt install ufw
+
+
 sudo apt install traceroute
+
+
 
 ------------------------------------------------------------
 
