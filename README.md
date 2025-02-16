@@ -1,7 +1,7 @@
 # Network Utility Tool
 This repository contains a simple network utility tool designed to help users interact with their network configurations, troubleshoot issues, and display various network-related information. It includes commands to display IP addresses, routing tables, active connections, and more.
 -------------------------------------------------------------
-# Prerequsites :
+# Requirements :
 sudo apt install iproute2 
 sudo apt install iw       
 sudo apt install curl     
