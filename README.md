@@ -3,7 +3,13 @@ This repository contains a simple network utility tool designed to help users in
 
 
 # How to install:
-<Compile>
+Compile:
+
 `g++ -o netmanv2 Tool_v2.cpp`
-<Move to bin>
+
+Move to bin
+
 `sudo mv netmanv2 /usr/bin/netmanv2`
+
+Enjoy the art of laziness ;)
+~a90
