@@ -7,9 +7,11 @@ Compile:
 
 `g++ -o netmanv2 Tool_v2.cpp`
 
-Move to bin
+Move to linux binaries
 
 `sudo mv netmanv2 /usr/bin/netmanv2`
 
 Enjoy the art of laziness ;)
+
+
 ~a90
